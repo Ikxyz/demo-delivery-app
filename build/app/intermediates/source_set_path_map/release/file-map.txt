@@ -1,0 +1,12 @@
+com.example.moniepiont.app-jetified-window-java-1.0.0-beta04-0 /Users/ik/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.moniepiont.app-core-1.6.0-1 /Users/ik/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.moniepiont.app-jetified-annotation-experimental-1.1.0-2 /Users/ik/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.moniepiont.app-jetified-window-1.0.0-beta04-3 /Users/ik/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.moniepiont.app-main-4 /Users/ik/Documents/projects/moniepiont/android/app/src/main/res
+com.example.moniepiont.app-release-5 /Users/ik/Documents/projects/moniepiont/android/app/src/release/res
+com.example.moniepiont.app-pngs-6 /Users/ik/Documents/projects/moniepiont/build/app/generated/res/pngs/release
+com.example.moniepiont.app-resValues-7 /Users/ik/Documents/projects/moniepiont/build/app/generated/res/resValues/release
+com.example.moniepiont.app-rs-8 /Users/ik/Documents/projects/moniepiont/build/app/generated/res/rs/release
+com.example.moniepiont.app-mergeReleaseResources-9 /Users/ik/Documents/projects/moniepiont/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.moniepiont.app-mergeReleaseResources-10 /Users/ik/Documents/projects/moniepiont/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.moniepiont.app-merged_res-11 /Users/ik/Documents/projects/moniepiont/build/app/intermediates/merged_res/release
